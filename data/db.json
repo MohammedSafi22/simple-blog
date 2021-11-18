@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "author": "Mohammed",
+      "id": 1
+    },
+    {
+      "title": "my second blog",
+      "body": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "author": "Ali",
+      "id": 2
+    }
+  ]
+}
